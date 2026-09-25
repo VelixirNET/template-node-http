@@ -1,0 +1,13 @@
+{
+  "name": "velixir-node-starter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A zero-dependency Node.js HTTP server, ready to deploy on velixir.",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
