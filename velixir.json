@@ -1,0 +1,15 @@
+{
+  "name": "Node.js",
+  "tagline": "A zero-dependency HTTP server on Node 22.",
+  "description": "The smallest thing that can be called a Node service: the built-in http module, no framework, nothing to install. Deploys in well under a minute and gives you a running container to build on.",
+  "language": "Node",
+  "runtimeVersion": "22",
+  "accent": "#8CC84B",
+  "tags": [
+    "No dependencies",
+    "Fastest build"
+  ],
+  "topics": [
+    "nodejs"
+  ]
+}
